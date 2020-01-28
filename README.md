@@ -1,2 +1,2 @@
 # GoormIDE-setup
-A Shell Script for automate NodeJs and Yarn installation
+A Shell Script to automate NodeJs and Yarn installation
